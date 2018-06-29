@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='http://tinbatdongsan247.vn/du-an/can-ho-q7-saigon-riverside-complex-hung-thinh-land-693.html' target='_blank'><img src='http://tinbatdongsan247.vn/upload/product/052817460330.jpg' width='500px'/><br/>13 Kỹ thuật đẩy top vượt trội</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://tinbatdongsan247.vn/du-an/can-ho-q7-saigon-riverside-complex-hung-thinh-land-693.html' target='_blank'><img src='http://tinbatdongsan247.vn/upload/product/052817460330.jpg' width='500px'/><br/>Mua Q7 Riverside</a>. Tien Ich vuot troi. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
